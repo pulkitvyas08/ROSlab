@@ -22,8 +22,9 @@
 ## Usage
 
 1. Open the Notebook in Colab using the badge above
-2. Run all the cells for installing ROS onto the notebook session
-3. Execute ROS commands as:
+2. Make a copy of the notebook for your own use by `Files` --> `Save a copy ... (Either in Drive or GitHub)`
+3. Run all the cells for installing ROS onto the notebook session
+4. Execute ROS commands as:
 
     ```colab
         !~/roslab ...
