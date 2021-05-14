@@ -59,7 +59,7 @@
 ## How are things different from regular ROS in Ubuntu?
 
 1. ROS has to sourced in every cell with ROS master setup. To avoid the trouble of adding some code in every cell those commands have been added to `roslab` and to execute any ROS command `~/roslab` has to be written before the command.
-2. Most shell commands have to preceded with a `!` (for example `!ls` with some commands like `cd` to be used as `%cd` i.e. with magic.
+2. Most shell commands have to preceded with a `!` (for example `!ls`) with some commands like `cd` to be used as `%cd` i.e. with magic.
 
 &nbsp;
 
