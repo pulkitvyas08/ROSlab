@@ -1,7 +1,22 @@
-<h1 style="text-align: center;"> ROSlab </h1>
+<p align="center">
+  <h1 align="center">ROSlab</h3>
 
-<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
+  <p align="center">
+    ROS inside Colab
+    <br />
+    <br />
+    <a href="https://github.com/pulkitvyas08/ROSlab">View Demo</a>
+    ·
+    <a href="https://github.com/pulkitvyas08/ROSlab/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/pulkitvyas08/ROSlab/issues">Request Feature</a>
+  </p>
+</p>
 
+</br>
+<p align="center">
+    <a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
+<p>
 &nbsp;
 
 ## Usage
