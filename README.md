@@ -58,3 +58,18 @@
 
 1. ROS has to sourced in every cell with ROS master setup. To avoid the trouble of adding some code in every cell those commands have been added to `roslab` and to execute any ROS command `~/roslab` has to be written before the command.
 2. Most shell commands have to preceded with a `!` (for example `!ls` with some commands like `cd` to be used as `%cd` i.e. with magic.
+
+&nbsp;
+
+## Roadmap -
+
+Check out the [open issues] and [projects] for a list of proposed features (and known issues)
+
+&nbsp;
+
+## License
+
+Distributed under MIT License. See `License` for more information.
+
+[open issues]: https://github.com/pulkitvyas08/ROSlab/issues
+[projects]: https://github.com/pulkitvyas08/ROSlab/projects
